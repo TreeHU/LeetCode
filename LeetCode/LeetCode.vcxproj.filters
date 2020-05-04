@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\Sort">
+      <UniqueIdentifier>{3943f4aa-f3b1-40b4-bd93-2e5f52a9b07e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1302.cpp">
@@ -25,10 +28,10 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Sort_1387.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Sort</Filter>
     </ClCompile>
     <ClCompile Include="test.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Sort</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
