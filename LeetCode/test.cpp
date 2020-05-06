@@ -28,9 +28,11 @@ int rec(int num) {
 }
 
 bool cmp(int a, int b) {
+	/*
 	if (rec(a) == rec(b)) {
 		return a < b;
 	}
+	*/
 	return rec(a) < rec(b);
 }
 
@@ -51,7 +53,7 @@ int main(void) {
 	for (auto it = v.begin(); it != v.end(); it++) {
 		cout << *it << " ";
 	}
-
+	sort(v.begin(), v.end(), cmp);
 	//cout <<"rec(12): "<< rec(12) << endl;
 	//cout << "rec(13): " << rec(13) << endl;
 
