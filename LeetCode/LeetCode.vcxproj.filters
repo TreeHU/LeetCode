@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\Sort">
       <UniqueIdentifier>{3943f4aa-f3b1-40b4-bd93-2e5f52a9b07e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\LinkedList">
+      <UniqueIdentifier>{67cabb43-c3bf-4dc9-8c48-411e85044eb4}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1302.cpp">
@@ -33,10 +36,13 @@
     <ClCompile Include="test.cpp">
       <Filter>소스 파일\Sort</Filter>
     </ClCompile>
-    <ClCompile Include="LinkedList_1290.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="LinkedList_237.cpp">
+      <Filter>소스 파일\LinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkedList_1290.cpp">
+      <Filter>소스 파일\LinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="Greedy_Sort_1383.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
