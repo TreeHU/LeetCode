@@ -45,5 +45,8 @@
     <ClCompile Include="Greedy_Sort_1383.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="LinkedList_876.cpp">
+      <Filter>소스 파일\LinkedList</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
