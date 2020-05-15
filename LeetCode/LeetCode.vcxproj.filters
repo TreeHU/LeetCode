@@ -48,5 +48,11 @@
     <ClCompile Include="LinkedList_876.cpp">
       <Filter>소스 파일\LinkedList</Filter>
     </ClCompile>
+    <ClCompile Include="LinkedList_206.cpp">
+      <Filter>소스 파일\LinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkedList_234.cpp">
+      <Filter>소스 파일\LinkedList</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
